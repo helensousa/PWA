@@ -1,0 +1,14 @@
+{
+  "name": "Personal Goals",
+  "short_name": "PWA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#f0fff0",
+  "background_color":"#f0fff0",
+  "icons": [
+    {
+      "src": "Metas.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+}
